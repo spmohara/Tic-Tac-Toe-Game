@@ -1,1 +1,9 @@
-Created a simple Tic-Tac-Toe game in Python. The source code for both Python 2 and 3 is available.
+Description
+===========
+
+A simple Tic-Tac-Toe game in Python.
+
+Dependencies
+============
+
+Python 3.x
